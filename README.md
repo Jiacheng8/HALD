@@ -17,7 +17,7 @@ Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE &emsp;&e
 
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)]()
-[![Arxiv](https://img.shields.io/badge/📃-Arxiv-red)](TODO)
+[![Arxiv](https://img.shields.io/badge/📃-Arxiv-red)](https://arxiv.org/abs/2512.15647)
 [![Open In Spaces](https://img.shields.io/badge/GoogleDrive-Dataset-blue?logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1wLm_jZA8bt95Tv8DDYyftheOnDdGgRnW?usp=drive_link)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)]()
 [![GitHub Repo stars](https://img.shields.io/github/stars/Jiacheng8/HALD)]()
@@ -97,7 +97,12 @@ If you find this repository helpful for your research or project, please conside
 
 > 🔖 **Citation (BibTeX):**
 ```bibtex
-
+@article{cui2025hard,
+  title={Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift},
+  author={Cui, Jiacheng and Tong, Bingkui and Bi, Xinyue and Zhao, Xiaohan and Liu, Jiacheng and Zhiqiang Shen},
+  journal={arXiv preprint arXiv:2512.15647},
+  year={2025}
+}
 ```
 
 📌 *Your citation helps support and acknowledge our research contributions to the dataset distillation community.*
